@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\homework21_11\Q2\bin\Debug\net8.0\Q2.exe
+C:\Users\student\source\repos\homework21_11\Q2\bin\Debug\net8.0\Q2.deps.json
+C:\Users\student\source\repos\homework21_11\Q2\bin\Debug\net8.0\Q2.runtimeconfig.json
+C:\Users\student\source\repos\homework21_11\Q2\bin\Debug\net8.0\Q2.dll
+C:\Users\student\source\repos\homework21_11\Q2\bin\Debug\net8.0\Q2.pdb
+C:\Users\student\source\repos\homework21_11\Q2\obj\Debug\net8.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\homework21_11\Q2\obj\Debug\net8.0\Q2.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\homework21_11\Q2\obj\Debug\net8.0\Q2.AssemblyInfo.cs
+C:\Users\student\source\repos\homework21_11\Q2\obj\Debug\net8.0\Q2.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\homework21_11\Q2\obj\Debug\net8.0\Q2.dll
+C:\Users\student\source\repos\homework21_11\Q2\obj\Debug\net8.0\refint\Q2.dll
+C:\Users\student\source\repos\homework21_11\Q2\obj\Debug\net8.0\Q2.pdb
+C:\Users\student\source\repos\homework21_11\Q2\obj\Debug\net8.0\Q2.genruntimeconfig.cache
+C:\Users\student\source\repos\homework21_11\Q2\obj\Debug\net8.0\ref\Q2.dll

@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\source\\repos\\homework19_11\\homework19_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39500A1B-1E6B-498D-BB1D-122972A5651C}|..\\Q1\\Q1.csproj|c:\\users\\student\\source\\repos\\homework19_11\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75D6161-199D-438D-A8B0-125706B9F238}|..\\Q3\\Q3.csproj|c:\\users\\student\\source\\repos\\homework19_11\\q3\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75D6161-199D-438D-A8B0-125706B9F238}|..\\Q3\\Q3.csproj|c:\\users\\student\\source\\repos\\homework19_11\\q3\\entity\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75D6161-199D-438D-A8B0-125706B9F238}|..\\Q3\\Q3.csproj|c:\\users\\student\\source\\repos\\homework19_11\\q3\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22424017-DB5A-4586-B5CE-73C86C9A939E}|..\\Q2\\Q2.csproj|c:\\users\\student\\source\\repos\\homework19_11\\q2\\entity\\electronicsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22424017-DB5A-4586-B5CE-73C86C9A939E}|..\\Q2\\Q2.csproj|c:\\users\\student\\source\\repos\\homework19_11\\q2\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22424017-DB5A-4586-B5CE-73C86C9A939E}|..\\Q2\\Q2.csproj|c:\\users\\student\\source\\repos\\homework19_11\\q2\\entity\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22424017-DB5A-4586-B5CE-73C86C9A939E}|..\\Q2\\Q2.csproj|c:\\users\\student\\source\\repos\\homework19_11\\q2\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75D6161-199D-438D-A8B0-125706B9F238}|..\\Q3\\Q3.csproj|c:\\users\\student\\source\\repos\\homework19_11\\q3\\entity\\istudentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22424017-DB5A-4586-B5CE-73C86C9A939E}|..\\Q2\\Q2.csproj|c:\\users\\student\\source\\repos\\homework19_11\\q2\\q2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ElectronicsProduct.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\homework19_11\\Q2\\entity\\ElectronicsProduct.cs",
+              "RelativeDocumentMoniker": "..\\Q2\\entity\\ElectronicsProduct.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\homework19_11\\Q2\\entity\\ElectronicsProduct.cs",
+              "RelativeToolTip": "..\\Q2\\entity\\ElectronicsProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:30:09.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\homework19_11\\Q3\\entity\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Q3\\entity\\Student.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\homework19_11\\Q3\\entity\\Student.cs",
+              "RelativeToolTip": "..\\Q3\\entity\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:36:56.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\homework19_11\\Q3\\entity\\StudentManager.cs",
+              "RelativeDocumentMoniker": "..\\Q3\\entity\\StudentManager.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\homework19_11\\Q3\\entity\\StudentManager.cs",
+              "RelativeToolTip": "..\\Q3\\entity\\StudentManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:37:46.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\homework19_11\\Q3\\main\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Q3\\main\\Program.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\homework19_11\\Q3\\main\\Program.cs",
+              "RelativeToolTip": "..\\Q3\\main\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:38:29.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\homework19_11\\Q1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Q1\\Program.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\homework19_11\\Q1\\Program.cs",
+              "RelativeToolTip": "..\\Q1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:26:50.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\homework19_11\\Q2\\main\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Q2\\main\\Program.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\homework19_11\\Q2\\main\\Program.cs",
+              "RelativeToolTip": "..\\Q2\\main\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:30:50.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClothingProduct.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\homework19_11\\Q2\\entity\\ClothingProduct.cs",
+              "RelativeDocumentMoniker": "..\\Q2\\entity\\ClothingProduct.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\homework19_11\\Q2\\entity\\ClothingProduct.cs",
+              "RelativeToolTip": "..\\Q2\\entity\\ClothingProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:30:21.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\homework19_11\\Q2\\entity\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Q2\\entity\\Product.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\homework19_11\\Q2\\entity\\Product.cs",
+              "RelativeToolTip": "..\\Q2\\entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:29:40.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentManager.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\homework19_11\\Q3\\entity\\IStudentManager.cs",
+              "RelativeDocumentMoniker": "..\\Q3\\entity\\IStudentManager.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\homework19_11\\Q3\\entity\\IStudentManager.cs",
+              "RelativeToolTip": "..\\Q3\\entity\\IStudentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:35:38.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Q2",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\homework19_11\\Q2\\Q2.csproj",
+              "RelativeDocumentMoniker": "..\\Q2\\Q2.csproj",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\homework19_11\\Q2\\Q2.csproj",
+              "RelativeToolTip": "..\\Q2\\Q2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T04:34:11.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

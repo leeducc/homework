@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\homework19_11\Q3\bin\Debug\net8.0\Q3.exe
+C:\Users\student\source\repos\homework19_11\Q3\bin\Debug\net8.0\Q3.deps.json
+C:\Users\student\source\repos\homework19_11\Q3\bin\Debug\net8.0\Q3.runtimeconfig.json
+C:\Users\student\source\repos\homework19_11\Q3\bin\Debug\net8.0\Q3.dll
+C:\Users\student\source\repos\homework19_11\Q3\bin\Debug\net8.0\Q3.pdb
+C:\Users\student\source\repos\homework19_11\Q3\obj\Debug\net8.0\Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\homework19_11\Q3\obj\Debug\net8.0\Q3.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\homework19_11\Q3\obj\Debug\net8.0\Q3.AssemblyInfo.cs
+C:\Users\student\source\repos\homework19_11\Q3\obj\Debug\net8.0\Q3.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\homework19_11\Q3\obj\Debug\net8.0\Q3.dll
+C:\Users\student\source\repos\homework19_11\Q3\obj\Debug\net8.0\refint\Q3.dll
+C:\Users\student\source\repos\homework19_11\Q3\obj\Debug\net8.0\Q3.pdb
+C:\Users\student\source\repos\homework19_11\Q3\obj\Debug\net8.0\Q3.genruntimeconfig.cache
+C:\Users\student\source\repos\homework19_11\Q3\obj\Debug\net8.0\ref\Q3.dll

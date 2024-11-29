@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\source\\repos\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\main\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\main\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\main\\DataDummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\main\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\main\\StudentManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\entity\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\entity\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\main\\StudentController.cs",
+              "RelativeDocumentMoniker": "..\\homework26_11\\homework26_11\\main\\StudentController.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\main\\StudentController.cs",
+              "RelativeToolTip": "..\\homework26_11\\homework26_11\\main\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:57:52.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataDummy.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\main\\DataDummy.cs",
+              "RelativeDocumentMoniker": "..\\homework26_11\\homework26_11\\main\\DataDummy.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\main\\DataDummy.cs",
+              "RelativeToolTip": "..\\homework26_11\\homework26_11\\main\\DataDummy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:48:47.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\main\\Menu.cs",
+              "RelativeDocumentMoniker": "..\\homework26_11\\homework26_11\\main\\Menu.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\main\\Menu.cs",
+              "RelativeToolTip": "..\\homework26_11\\homework26_11\\main\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:47:33.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\main\\Program.cs",
+              "RelativeDocumentMoniker": "..\\homework26_11\\homework26_11\\main\\Program.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\main\\Program.cs",
+              "RelativeToolTip": "..\\homework26_11\\homework26_11\\main\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:30:37.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\main\\StudentManager.cs",
+              "RelativeDocumentMoniker": "..\\homework26_11\\homework26_11\\main\\StudentManager.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\main\\StudentManager.cs",
+              "RelativeToolTip": "..\\homework26_11\\homework26_11\\main\\StudentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:27:15.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\entity\\Student.cs",
+              "RelativeDocumentMoniker": "..\\homework26_11\\homework26_11\\entity\\Student.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\entity\\Student.cs",
+              "RelativeToolTip": "..\\homework26_11\\homework26_11\\entity\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:21:08.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\entity\\Person.cs",
+              "RelativeDocumentMoniker": "..\\homework26_11\\homework26_11\\entity\\Person.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\homework26_11\\homework26_11\\entity\\Person.cs",
+              "RelativeToolTip": "..\\homework26_11\\homework26_11\\entity\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:17:10.008Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
